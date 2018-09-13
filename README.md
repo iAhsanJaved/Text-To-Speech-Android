@@ -2,4 +2,4 @@
 🎤 Text-To-Speech Android App
 
 ## Demo
-![](screenshot.png | width=200)
+![](screenshot.png)
